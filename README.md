@@ -1,7 +1,7 @@
-Test Scenario Structure
+# Test Scenario Structure
 Each test scenario consists of:
 
-Test Scenario ID: A unique identifier for the scenario.
+# Test Scenario ID: A unique identifier for the scenario.
 Feature: The specific feature being tested.
 Scenario: A description of the condition or workflow being tested.
 Expected Outcome: The expected behavior or result of the scenario.
